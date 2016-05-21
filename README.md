@@ -1,2 +1,1 @@
-# android_vendor_etuline_enso
-Vendor Tree for Etuline Enso for cm-12.1
+# android_vendor_huawei_g750t01
