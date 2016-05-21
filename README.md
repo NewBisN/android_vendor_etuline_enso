@@ -1,1 +1,1 @@
-# android_vendor_huawei_g750t01
+# android_vendor_etuline_enso
